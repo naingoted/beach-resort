@@ -34,7 +34,7 @@ export default class Services extends Component {
         return (
             <section className="services">
                 <Title title="services" />
-                <div className="servies-center">
+                <div className="services-center">
                     {this.state.services.map(item => {
                         return (
                             <article key={`item-${item.title}`} className="service">
