@@ -1,6 +1,5 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). 
-
-And credit goes to [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
+ 
+**Live url - https://beachresort-naingoted.netlify.app/**
 
 ## Available Scripts
 
@@ -14,3 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
+Credit goes to [Coding Addict](https://www.youtube.com/channel/UCMZFwxv5l-XtKi693qMJptA)
